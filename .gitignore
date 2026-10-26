@@ -1,0 +1,4 @@
+ckpt*/
+*.bak
+*.diff
+__pycache__/
